@@ -1,5 +1,5 @@
 {{#user}}
 Name: Pranab Roy Bormon
-Skills: HTML ,CSS ,JavaScript,React.js,Node.js,MongoDB,TypeScript.
+Skills: HTML,CSS ,JavaScript,React.js,Node.js,MongoDB,TypeScript.
 Email: pronobroy3601@gmail.com
 {{/user}}
